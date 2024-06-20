@@ -73,6 +73,7 @@ enhancing the visual appearance of websites.
 and complexity to site functionality.
 
 HTML:
+
 HTML is at the core of every web page, regardless the complexity of a site or number 
 of technologies involved. It's an essential skill for any web professional. It's the 
 starting point for anyone learning how to create content for the web. And, luckily 
